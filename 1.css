@@ -1,0 +1,173 @@
+body{
+  width:100% ;
+  
+}
+.full{
+   width: 100%;
+   overflow: hidden;
+}
+.one{
+    
+    background-image: url("./image/landing\ page.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.two{
+    padding-top : 150px; 
+    padding-left:12px ;
+    width: 293px;
+    height: 270px;
+    
+}
+.three{
+    width: 606px;
+    height: 162px;
+    padding-top: 210px;
+    padding-left: 12px;
+}
+
+.imgg1{
+   margin-left: -350px;
+   margin-top: 90px;
+   
+}
+.fg{
+    font-size: 20px;
+    height: 100px;
+    word-spacing: 4px;
+    font-weight: 200;
+}
+.yht{
+    margin-top: 70px;
+    padding-left: 12px;
+    border:60pxpx ;
+}
+.ri{
+    font-size: 22px;
+    letter-spacing: px;
+    line-height: 10px;
+    color: #D88538;
+    
+}
+.hero{
+   margin-left: -95px;
+   margin-right: px;
+   margin-top: 50px;
+}
+.four{
+    background-image: url("./image/Rectangle\ 15\ \(1\).png");
+    text-align: center;
+    font-weight: 300px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.our{
+    padding-top: 50px;
+}
+p.on{
+    padding-bottom: 12px; 
+    color: #3A3A3ABF;
+    font-size: 35px;
+    font-weight:300px ;
+}
+p.uwe{
+    margin-top: -50px;
+    font-size: 22px;
+    color:  #3A3A3ABF;
+}
+p.rid{
+    padding-bottom: 12px;
+}
+p.sml{
+    margin-top: -40px;
+    font-size: 15px;
+}
+.pro{
+    padding-top: 80px;
+    
+    
+    
+}
+.du{
+    padding-bottom: 30px;
+    padding-left: 70px;
+    font-weight: 300px;
+    
+}
+.wap{
+    padding-bottom: 50px;
+    font-weight: 300px;
+    padding-left: 70px;
+}
+.ben{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.icons{
+    text-align:left;
+}
+.owo{
+    background-image: url("./image/Rectangle\ 13.png");
+    padding-top: 70px;
+    padding-left: 40px;
+    background-repeat: no-repeat;
+}
+.uyi{
+    text-align-last: right;
+    border-radius: 50%;
+    color:#E79F5D33 ;
+    border-color: #D88538;
+    font-size: 40px;
+    border-spacing: 50%;
+}
+.up{
+    background-image: url("./image/Rectangle\ 14.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.email{
+    background-color:black;
+    width: max-content;
+    font-size: medium;
+   
+}
+.text-center{
+    border-top:40px ;
+}
+.you{
+    background-position: center;
+}
+
+.why{
+    width: 800px;
+    height: 350px;
+    background-color: white;
+    text-align: left;
+    box-shadow: 90%;
+    padding-top: 110px;
+    padding-left: 90px;
+    position: sticky;
+}
+.ok{
+    background-color: #D88538;
+    height: 0px;
+    width: 30px;
+    
+}
+.media{
+    padding-top: 160px;
+    padding-left: 400px;
+    border-radius: 50%;
+    border-color: black;
+}
+.vee{
+    text-align-last: right;
+    padding-bottom: 30px;
+}
+
+
+
